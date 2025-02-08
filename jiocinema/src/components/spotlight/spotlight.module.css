@@ -1,0 +1,21 @@
+.spotlight
+{
+    width: 100%;
+    height: 500px;
+    background-color: #060707;
+    padding: 10px 2%;
+
+}
+
+.spotlightImg
+{
+    width: 100%;
+    height: 450px;
+    /*background-color: rgb(255, 234, 0);*/
+    padding: 25px 10px;
+}
+.spotlightImg > img{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
